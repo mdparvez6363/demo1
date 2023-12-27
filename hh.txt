@@ -1,0 +1,9 @@
+{
+  "name": "parvez",
+  "email": "parvez123@245.com",
+  "contact": "98789765323567",
+  "branch": "",
+  "address": "ksxjhsjhx",
+  "companyName": "xsnmxshj ",
+  "message": "sxsnmxb"
+}
