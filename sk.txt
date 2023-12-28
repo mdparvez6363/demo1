@@ -1,9 +1,9 @@
 {
-  "name": "ijh",
-  "email": "kjh",
-  "contact": "oiuytredxcv",
-  "address": "iuytrew",
-  "companyName": "kuyf",
-  "message": "iuytrew",
+  "name": "hp",
+  "email": "dedfe",
+  "contact": "fef",
+  "address": "dfdf",
+  "companyName": "def",
+  "message": "eded",
   "branch": ""
 }
