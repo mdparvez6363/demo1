@@ -1,8 +1,9 @@
 {
-  "name": "asalam",
-  "email": "asalm@123",
-  "contact": "6363046072",
-  "address": "nai kaman",
-  "companyName": "synefi",
-  "message": "njjnk jnh jnjnj  n"
+  "name": "ijh",
+  "email": "kjh",
+  "contact": "oiuytredxcv",
+  "address": "iuytrew",
+  "companyName": "kuyf",
+  "message": "iuytrew",
+  "branch": ""
 }
